@@ -1,0 +1,22 @@
+package hafta11;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class main {
+
+	public main(String[] args) {
+
+		ArrayList<String> iller=new ArrayList<String>();
+
+		iller.add("Muðla");
+
+		iller.add("Van");
+
+		iller.add("Ankara");
+
+		Collections.sort(iller);
+		
+	}
+
+}

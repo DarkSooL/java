@@ -1,0 +1,19 @@
+package hafta05;
+
+public class Personel extends Kisi{
+	
+	
+
+	public int sicilNo;
+
+	public Personel(String adSoyad, int tcNo, int sicilNo) {
+		super(adSoyad, tcNo);
+		this.sicilNo = sicilNo;
+	}
+	
+	@Override
+	public void numaraYazdir() {
+		System.out.println("Sicil No : "+sicilNo);
+	}
+
+}

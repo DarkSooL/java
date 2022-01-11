@@ -1,0 +1,19 @@
+package hafta11;
+
+public class main {
+
+	public static void main(String[] args) {
+
+		Takim takim1=new Takim("Fenerbahçe", new ArrayList<Mac()>);
+		takim1.macEkle(new Mac(1,1));
+		takim.macEkle(new Mac(3,1));
+		
+		Takim takim2 = new Takim("Trabzonspor ", new ArrayList<Mac()>);
+		takim2.macEkle(new Mac(3,0));
+		takim2.macEkle(new Mac(2,0));
+		
+		Takim  takim3 = new Takim("Konyaspor",new ArrayList<Mac()>  )
+		
+	}
+
+}

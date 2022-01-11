@@ -1,0 +1,15 @@
+package hafta11;
+
+
+public class Takim {
+	
+ private String ad;
+ private List<Mac> maclar;
+ 
+ 
+	
+	
+	
+	
+
+}

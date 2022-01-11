@@ -1,0 +1,18 @@
+package hafta05;
+
+public class Ogrenci extends Kisi {
+
+	public int ogrenciNo;
+	
+	public Ogrenci(String adSoyad, int tcNo) {
+		super(adSoyad, tcNo);
+		this.ogrenciNo=ogrenciNo;
+	
+	}
+
+	@Override
+	public void numaraYazdir() {
+		super.numaraYazdir();
+	}
+
+}

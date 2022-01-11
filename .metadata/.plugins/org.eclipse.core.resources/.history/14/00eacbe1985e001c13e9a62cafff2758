@@ -1,0 +1,14 @@
+package hafta11;
+
+import java.util.List;
+
+public class Takim {
+	
+	private String ad;
+
+	
+	
+	
+	
+
+}

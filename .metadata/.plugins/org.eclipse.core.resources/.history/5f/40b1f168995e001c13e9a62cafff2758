@@ -1,0 +1,44 @@
+package hafta11;
+
+import java.util.List;
+
+public class Takim {
+	
+ private String ad;
+ private List<Mac> maclar;
+
+ 
+ public Takim(String ad, List<Mac> maclar) {
+	super();
+	this.ad = ad;
+	this.maclar = maclar;
+}
+
+ 
+ public void macEkle() {
+	 
+	 maclar.add(null);
+	 
+ }
+ 
+ public int puanHesapla() {
+	 
+	 
+	return 0;
+	 
+	 
+ }
+ 
+ public int averajHesapla() {
+	 
+	 return 0;
+ } 
+ 
+ 
+ 
+	
+	
+	
+	
+
+}
